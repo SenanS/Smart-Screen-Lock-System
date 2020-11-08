@@ -4,7 +4,7 @@
 * The Display Node.
 * The Locking Node.
 
-##The objective is to create a smart screen system which monitors my door security & shows me information of interest
+## The objective is to create a smart screen system which monitors my door security & shows me information of interest
 
 ## [RFID](https://github.com/SenanS/Smart-Screen-Lock-System/tree/main/RFID_reader)  & [Communications](https://github.com/SenanS/Smart-Screen-Lock-System/tree/main/Master_Radio) Node
 An Arduino Uno read and authenticated RFID signals. The results were communicated to the Arduino Nano, which used a radio module to send the results to the Raspberry Pi. The second Arduino also controlled LED authentication indicators.
