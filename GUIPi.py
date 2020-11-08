@@ -37,7 +37,7 @@ radio.printDetails()
 radio.startListening()
 
 
-owm = pyowm.OWM('d61af53a60afc1426c34f9f18cf7052c')
+owm = pyowm.OWM('x')
                                              
             
 
